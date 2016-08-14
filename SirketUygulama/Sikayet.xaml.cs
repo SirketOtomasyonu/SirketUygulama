@@ -10,21 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace SirketUygulama
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Sikayet.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Sikayet : Window
     {
-        public MainWindow()
+        public Sikayet()
         {
             InitializeComponent();
-            
         }
-         
     }
 }
